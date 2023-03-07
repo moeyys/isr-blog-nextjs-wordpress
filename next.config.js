@@ -14,6 +14,9 @@ module.exports = {
       '1.gravatar.com',
       '2.gravatar.com',
       'secure.gravatar.com',
+      'moeyy.cn',
+      'acdn.moeyy.cn',
+      'mcdn.moeyy.cn',
     ],
   },
 }
